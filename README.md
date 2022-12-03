@@ -13,16 +13,16 @@
 
 #### 1. 在本仓库搜索框输入关键字
 
-![](images/java-001.jpg)
+![](images/002.jpg)
 
 #### 2. 查看匹配到关键字issue列表
 
-![](images/java-002.jpg)
+![](images/003.jpg)
 
 
 #### 3. 打开issue
 
-![](images/java-002.jpg)
+![](images/004.jpg)
 
 issue会详细列出题目和答案。issue有两种状态：
 
@@ -32,6 +32,9 @@ issue会详细列出题目和答案。issue有两种状态：
 ## 如何补充题库
 
 补充题库，就是在<https://github.com/waylau/harmonyos-exam/issues>中创建一个新的issue。
+
+
+![](images/001.jpg)
 
 添加前最好先搜索下，是否已经有人提了类似的问题。如果是，请不要重复提交。
 
