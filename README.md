@@ -1,4 +1,4 @@
-# HarmonyOS Exam. HarmonyOS认证考试题库
+# HarmonyOS Exam. HarmonyOS题库
 
 这是一个关于HarmonyOS的题库，可用于HarmonyOS认证、考试、面试等。所有的题目都归档到了<https://github.com/waylau/harmonyos-exam/issues>中。
 
